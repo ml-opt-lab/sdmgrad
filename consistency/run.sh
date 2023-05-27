@@ -1,0 +1,1 @@
+nohup python -u train.py --solver sdmgrad --lmbda 0.5 --seed 1 > sdmgrad_lmbda5e-1_sd1.log 2>&1 &

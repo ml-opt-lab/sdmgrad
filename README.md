@@ -12,7 +12,7 @@ python toy.py
 The experiments are conducted on the multi-Fashion+MNIST dataset, which can be downloaded [here](https://github.com/Xi-L/ParetoMTL). Then follow the `run.sh` script to run the experiments.
 
 ## Supervised Learning
-The expriments are conducted on Cityscapes and NYU-V2 datasets, which can be downloaded [here](https://github.com/lorenmt/mtan). Then follow the `run.sh` script to run the experiments and `evaluate.py` to evaluete the performance. 
+The expriments are conducted on Cityscapes and NYU-v2 datasets, which can be downloaded [here](https://github.com/lorenmt/mtan). Then follow the `run.sh` script to run the experiments and `evaluate.py` to evaluete the performance. 
 
 ## Reinforcement Learning
 The experiments are conducted on [Meta-World](https://github.com/Farama-Foundation/Metaworld) benchmark. To run the experiments on `MT10` and `MT50` (the instructions below are partly borrowed from [CAGrad](https://github.com/Cranial-XIX/CAGrad)):
